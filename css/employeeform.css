@@ -1,0 +1,13 @@
+.container {
+    position: relative;
+    font-family: arial;
+    font-size: 18px;
+    margin: 25px;
+    width: 350px;
+    height: 200px;
+    line-height: 1.6;
+  }
+  
+  label{
+    text-align: center;
+  }
